@@ -19,7 +19,7 @@ When you click it, all files in the selected folder are moved into folders like 
 
 ## Installation
 
-⚠️ **Administrator rights are required**, because this tool modifies the Windows registry.
+ **Administrator rights are required**, because this tool modifies the Windows registry.
 
 1. Make sure Python is installed and added to your PATH  
 2. Open **PowerShell as Administrator**
