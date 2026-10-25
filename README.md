@@ -1,6 +1,6 @@
 # Sort Files – Windows Context Menu Tool
 
-This is a small Python tool for Windows that adds a **“Sort Files”** option to the right-click context menu, I build it many Years ago but never published it on Git, but now I found it on my PC and Published it :) .
+This is a small Python tool for Windows that adds a **“Sort Files”** option to the right-click context menu, I made it to practice Python, what means there was a bit ai used while developing
 
 Once installed, you can right-click any folder and automatically sort all files inside it into subfolders based on their file extensions.
 
